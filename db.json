@@ -1,0 +1,1074 @@
+{
+  "organizations": {
+      "hasNext": true,
+      "nextOrgId": 249,
+      "organization": [
+          {
+              "id": 15,
+              "name": "CFK Africa",
+              "ein": "56-2248495",
+              "addressLine1": "FedEx Global Education Center UNC-Chapel Hill Campus Box 5145",
+              "addressLine2": "CB#5145",
+              "city": "Chapel Hill",
+              "state": "North Carolina",
+              "postal": "27599",
+              "iso3166CountryCode": "US",
+              "url": "http://www.cfkafrica.org",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/15/orglogo.png",
+              "mission": "CFK Africa's mission is to improve public health and economic prosperity in informal settlements.\n\nCFK envisions healthy informal settlements where community members have a voice and opportunity. Areas where every person, regardless of background, has a voice in his or her future and access to opportunities and resources to realize that future. Communities that find strength in diversity and individuals who are empowered to pursue opportunities both locally and across the globe.",
+              "totalProjects": 17,
+              "activeProjects": 1,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "children",
+                          "name": "Child Protection"
+                      },
+                      {
+                          "id": "ecdev",
+                          "name": "Economic Growth"
+                      },
+                      {
+                          "id": "edu",
+                          "name": "Education"
+                      },
+                      {
+                          "id": "env",
+                          "name": "Ecosystem Restoration"
+                      },
+                      {
+                          "id": "gender",
+                          "name": "Gender Equality"
+                      },
+                      {
+                          "id": "health",
+                          "name": "Physical Health"
+                      },
+                      {
+                          "id": "human",
+                          "name": "Ending Human Trafficking"
+                      },
+                      {
+                          "id": "rights",
+                          "name": "Justice and Human Rights"
+                      },
+                      {
+                          "id": "sport",
+                          "name": "Sport"
+                      },
+                      {
+                          "id": "tech",
+                          "name": "Digital Literacy"
+                      },
+                      {
+                          "id": "hunger",
+                          "name": "Food Security"
+                      },
+                      {
+                          "id": "covid-19",
+                          "name": "COVID-19"
+                      },
+                      {
+                          "id": "water",
+                          "name": "Clean Water"
+                      },
+                      {
+                          "id": "mentalhealth",
+                          "name": "Mental Health"
+                      },
+                      {
+                          "id": "reproductive",
+                          "name": "Reproductive Health"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "Kenya",
+                          "iso3166CountryCode": "KE"
+                      }
+                  ]
+              },
+              "country": "United States"
+          },
+          {
+              "id": 35,
+              "name": "Instituto Dara",
+              "addressLine1": "Rua das Palmeiras 65",
+              "addressLine2": "",
+              "city": "Rio de Janeiro",
+              "state": "RJ",
+              "postal": "22270-070",
+              "iso3166CountryCode": "BR",
+              "url": "http://www.dara.org.br/en",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/35/orglogo.png",
+              "mission": "Dara Institute is a civil society organization that works to promote health and human development by implementing and promoting an integrated multidisciplinary approach to fight poverty. A world pioneer in intersectoral work with social determinants of health, it was founded by Dr. Vera Cordeiro, in 1991, in Rio de Janeiro, Brazil. Our objective is to contribute to changing the  health and human development framework in society, incorporating an integrated multisectoral approach to fight poverty. For the 8th consecutive year, SC ranked best NGO in Latin America and 21st in the world, according to NGO Advisor, a Swiss publication.",
+              "totalProjects": 9,
+              "activeProjects": 3,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "ecdev",
+                          "name": "Economic Growth"
+                      },
+                      {
+                          "id": "edu",
+                          "name": "Education"
+                      },
+                      {
+                          "id": "gender",
+                          "name": "Gender Equality"
+                      },
+                      {
+                          "id": "health",
+                          "name": "Physical Health"
+                      },
+                      {
+                          "id": "rights",
+                          "name": "Justice and Human Rights"
+                      },
+                      {
+                          "id": "tech",
+                          "name": "Digital Literacy"
+                      },
+                      {
+                          "id": "hunger",
+                          "name": "Food Security"
+                      },
+                      {
+                          "id": "covid-19",
+                          "name": "COVID-19"
+                      },
+                      {
+                          "id": "disability",
+                          "name": "Disability Rights"
+                      },
+                      {
+                          "id": "mentalhealth",
+                          "name": "Mental Health"
+                      },
+                      {
+                          "id": "housing",
+                          "name": "Safe Housing"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "Brazil",
+                          "iso3166CountryCode": "BR"
+                      }
+                  ]
+              },
+              "country": "Brazil"
+          },
+          {
+              "id": 46,
+              "name": "The River Fund",
+              "ein": "59-3212877",
+              "addressLine1": "11155 Roseland Road, Unit 16",
+              "addressLine2": "Unit 16",
+              "city": "Sebastian",
+              "state": "Florida",
+              "postal": "32958",
+              "iso3166CountryCode": "US",
+              "url": "https://www.riverfund.org",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/46/orglogo.jpg",
+              "mission": "The River Fund is dedicated to providing physical, emotional and spiritual support, to people living with or affected by HIV/AIDS and other life challenging illnesses and circumstances, as well as their loved ones and caregivers. We serve the poor, those who often are alone and in need - regardless of a person's religion, race, ethnicity, sexual orientation, gender or age.",
+              "totalProjects": 10,
+              "activeProjects": 3,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "children",
+                          "name": "Child Protection"
+                      },
+                      {
+                          "id": "ecdev",
+                          "name": "Economic Growth"
+                      },
+                      {
+                          "id": "edu",
+                          "name": "Education"
+                      },
+                      {
+                          "id": "gender",
+                          "name": "Gender Equality"
+                      },
+                      {
+                          "id": "health",
+                          "name": "Physical Health"
+                      },
+                      {
+                          "id": "human",
+                          "name": "Ending Human Trafficking"
+                      },
+                      {
+                          "id": "rights",
+                          "name": "Justice and Human Rights"
+                      },
+                      {
+                          "id": "hunger",
+                          "name": "Food Security"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "Uganda",
+                          "iso3166CountryCode": "UG"
+                      },
+                      {
+                          "name": "United States",
+                          "iso3166CountryCode": "US"
+                      }
+                  ]
+              },
+              "country": "United States"
+          },
+          {
+              "id": 56,
+              "name": "Abalimi Bezekhaya - Planters of the Home",
+              "addressLine1": "PO Box 44 Observatory",
+              "addressLine2": "",
+              "city": "Cape Town",
+              "state": "Western Cape",
+              "postal": "7708",
+              "iso3166CountryCode": "ZA",
+              "url": "http://www.abalimi.org.za",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/56/orglogo.jpg",
+              "mission": "Abalimi is a Volunteer Association working to empower the disadvantaged through its organic Urban Agriculture program & projects.  We support our target groups' ability to replicate their success and transform their lives in their urban and rural environments, through the following Key Result Areas: resource support; training; organisation building; facilitation of partnerships; research, monitoring and evaluation.",
+              "totalProjects": 2,
+              "activeProjects": 1,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "climate",
+                          "name": "Climate Action"
+                      },
+                      {
+                          "id": "env",
+                          "name": "Ecosystem Restoration"
+                      },
+                      {
+                          "id": "health",
+                          "name": "Physical Health"
+                      },
+                      {
+                          "id": "rights",
+                          "name": "Justice and Human Rights"
+                      },
+                      {
+                          "id": "hunger",
+                          "name": "Food Security"
+                      },
+                      {
+                          "id": "agriculture",
+                          "name": "Sustainable Agriculture"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "South Africa",
+                          "iso3166CountryCode": "ZA"
+                      }
+                  ]
+              },
+              "country": "South Africa"
+          },
+          {
+              "id": 129,
+              "name": "Tewa",
+              "addressLine1": "Tewa P.O. Box 11, Dhapakhel, Lalitpur",
+              "addressLine2": "",
+              "city": "Lalitpur",
+              "state": "Nepal",
+              "postal": "PO BOX 11",
+              "iso3166CountryCode": "NP",
+              "url": "http://www.tewa.org.np",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/129/orglogo.jpg",
+              "mission": "Vision: A country without discrimination and injustice, in which all women enjoy their rights, freedom and peace.\n\nMission: Through funding and capacity development, Tewa supports women to organize, raise their voices collectively and transform discriminatory policies, systems, norms and practices.\n\nTheory of change: \"When women struggling with poverty, marginalization and invisibility organize collectively, they amplify their voices, strengthen their leadership, and overcome injustice. Our role as Tewa is to support such groups of women by funding their initiatives, enhancing their capacities, and connecting them to other relevant groups and national initiatives and processes.\"\nWe have outlined five strategic goals according to Tewa's vision and mission.\n\nStrategic Vision 1: Increase resource mobilization\n\n Goal 1: Strengthen Tewa to become a sustainable and autonomous feminist fund. \n\n Goal 2:  Influence the agenda setting to significantly shift funding mechanisms towards women and ensure women's rights work is supported.\n\nStrategic Vision 2:  Transformative grant making \n\n Goal 1:  Support initiatives aimed at transforming the lives of women, especially the most vulnerable and marginalised, through strategic grant making.\n\n Goal 2: Assist to enhance decision making, participation and leadership to amplify women's voices and make their concerns visible.\n\n Goal 3: Strengthen movement building so that there is a critical mass of women who can participate, advocate, influence and engage politically\n\nStrategic Vision 3: Strengthen capacity of human resources within Tewa\n\n Goal 1:  Strengthen leadership by enhancing staff skills and activism.\n\n Goal 2:  Strengthen strategic communications and creativity.\n\nStrategic Vision 4:  Increase knowledge for informing, persuading and influencing\n\n Goal 1: Be a source of knowledge and influence regarding how women in Nepal organize and strategise for social justice\n\n Goal 2: Maintain and renew our information technologies (IT) infrastructure while balancing technology needs with budgetary demands and our other priorities.\n\nStrategic Vision 5: Develop a strong Learning and Evaluation unit \n\n Goal 1: Develop, maintain and keep updated, a management information system for learning, monitoring and reporting.",
+              "totalProjects": 3,
+              "activeProjects": 2,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "climate",
+                          "name": "Climate Action"
+                      },
+                      {
+                          "id": "democ",
+                          "name": "Peace and Reconciliation"
+                      },
+                      {
+                          "id": "disaster",
+                          "name": "Disaster Response"
+                      },
+                      {
+                          "id": "ecdev",
+                          "name": "Economic Growth"
+                      },
+                      {
+                          "id": "gender",
+                          "name": "Gender Equality"
+                      },
+                      {
+                          "id": "rights",
+                          "name": "Justice and Human Rights"
+                      },
+                      {
+                          "id": "lgbtq",
+                          "name": "LGBTQIA+ Equality"
+                      },
+                      {
+                          "id": "disability",
+                          "name": "Disability Rights"
+                      },
+                      {
+                          "id": "reproductive",
+                          "name": "Reproductive Health"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "Nepal",
+                          "iso3166CountryCode": "NP"
+                      }
+                  ]
+              },
+              "country": "Nepal"
+          },
+          {
+              "id": 189,
+              "name": "GlobalGiving",
+              "ein": "30-0108263",
+              "addressLine1": "1 Thomas Circle NW",
+              "addressLine2": "Suite 800",
+              "city": "Washington",
+              "state": "D.C.",
+              "postal": "20005",
+              "iso3166CountryCode": "US",
+              "url": "https://www.globalgiving.org",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/189/orglogo.png",
+              "mission": "Our mission is to build an efficient, open, thriving marketplace that connects people who have community and world-changing ideas with people who can support them.",
+              "totalProjects": 227,
+              "activeProjects": 39,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "animals",
+                          "name": "Animal Welfare"
+                      },
+                      {
+                          "id": "children",
+                          "name": "Child Protection"
+                      },
+                      {
+                          "id": "democ",
+                          "name": "Peace and Reconciliation"
+                      },
+                      {
+                          "id": "disaster",
+                          "name": "Disaster Response"
+                      },
+                      {
+                          "id": "ecdev",
+                          "name": "Economic Growth"
+                      },
+                      {
+                          "id": "edu",
+                          "name": "Education"
+                      },
+                      {
+                          "id": "env",
+                          "name": "Ecosystem Restoration"
+                      },
+                      {
+                          "id": "gender",
+                          "name": "Gender Equality"
+                      },
+                      {
+                          "id": "health",
+                          "name": "Physical Health"
+                      },
+                      {
+                          "id": "rights",
+                          "name": "Justice and Human Rights"
+                      },
+                      {
+                          "id": "tech",
+                          "name": "Digital Literacy"
+                      },
+                      {
+                          "id": "hunger",
+                          "name": "Food Security"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "Afghanistan",
+                          "iso3166CountryCode": "AF"
+                      },
+                      {
+                          "name": "Bangladesh",
+                          "iso3166CountryCode": "BD"
+                      },
+                      {
+                          "name": "Brazil",
+                          "iso3166CountryCode": "BR"
+                      },
+                      {
+                          "name": "Burkina Faso",
+                          "iso3166CountryCode": "BF"
+                      },
+                      {
+                          "name": "Cambodia",
+                          "iso3166CountryCode": "KH"
+                      },
+                      {
+                          "name": "Chad",
+                          "iso3166CountryCode": "TD"
+                      },
+                      {
+                          "name": "Chile",
+                          "iso3166CountryCode": "CL"
+                      },
+                      {
+                          "name": "China",
+                          "iso3166CountryCode": "CN"
+                      },
+                      {
+                          "name": "Costa Rica",
+                          "iso3166CountryCode": "CR"
+                      },
+                      {
+                          "name": "Congo, Democratic Republic of the",
+                          "iso3166CountryCode": "CD"
+                      },
+                      {
+                          "name": "Djibouti",
+                          "iso3166CountryCode": "DJ"
+                      },
+                      {
+                          "name": "Ethiopia",
+                          "iso3166CountryCode": "ET"
+                      },
+                      {
+                          "name": "Finland",
+                          "iso3166CountryCode": "FI"
+                      },
+                      {
+                          "name": "Guatemala",
+                          "iso3166CountryCode": "GT"
+                      },
+                      {
+                          "name": "Guyana",
+                          "iso3166CountryCode": "GY"
+                      },
+                      {
+                          "name": "Haiti",
+                          "iso3166CountryCode": "HT"
+                      },
+                      {
+                          "name": "Hong Kong SAR",
+                          "iso3166CountryCode": "HK"
+                      },
+                      {
+                          "name": "India",
+                          "iso3166CountryCode": "IN"
+                      },
+                      {
+                          "name": "Indonesia",
+                          "iso3166CountryCode": "ID"
+                      },
+                      {
+                          "name": "Italy",
+                          "iso3166CountryCode": "IT"
+                      },
+                      {
+                          "name": "Japan",
+                          "iso3166CountryCode": "JP"
+                      },
+                      {
+                          "name": "Kenya",
+                          "iso3166CountryCode": "KE"
+                      },
+                      {
+                          "name": "Malawi",
+                          "iso3166CountryCode": "MW"
+                      },
+                      {
+                          "name": "Malaysia",
+                          "iso3166CountryCode": "MY"
+                      },
+                      {
+                          "name": "Mali",
+                          "iso3166CountryCode": "ML"
+                      },
+                      {
+                          "name": "Mauritania",
+                          "iso3166CountryCode": "MR"
+                      },
+                      {
+                          "name": "Morocco",
+                          "iso3166CountryCode": "MA"
+                      },
+                      {
+                          "name": "Myanmar",
+                          "iso3166CountryCode": "MM"
+                      },
+                      {
+                          "name": "Namibia",
+                          "iso3166CountryCode": "NA"
+                      },
+                      {
+                          "name": "Nepal",
+                          "iso3166CountryCode": "NP"
+                      },
+                      {
+                          "name": "New Zealand",
+                          "iso3166CountryCode": "NZ"
+                      },
+                      {
+                          "name": "Niger",
+                          "iso3166CountryCode": "NE"
+                      },
+                      {
+                          "name": "Pakistan",
+                          "iso3166CountryCode": "PK"
+                      },
+                      {
+                          "name": "Paraguay",
+                          "iso3166CountryCode": "PY"
+                      },
+                      {
+                          "name": "Philippines",
+                          "iso3166CountryCode": "PH"
+                      },
+                      {
+                          "name": "Rwanda",
+                          "iso3166CountryCode": "RW"
+                      },
+                      {
+                          "name": "Senegal",
+                          "iso3166CountryCode": "SN"
+                      },
+                      {
+                          "name": "Sierra Leone",
+                          "iso3166CountryCode": "SL"
+                      },
+                      {
+                          "name": "Somalia",
+                          "iso3166CountryCode": "SO"
+                      },
+                      {
+                          "name": "South Africa",
+                          "iso3166CountryCode": "ZA"
+                      },
+                      {
+                          "name": "South Korea",
+                          "iso3166CountryCode": "KR"
+                      },
+                      {
+                          "name": "Spain",
+                          "iso3166CountryCode": "ES"
+                      },
+                      {
+                          "name": "Sri Lanka",
+                          "iso3166CountryCode": "LK"
+                      },
+                      {
+                          "name": "Sudan",
+                          "iso3166CountryCode": "SD"
+                      },
+                      {
+                          "name": "Tanzania, United Republic of",
+                          "iso3166CountryCode": "TZ"
+                      },
+                      {
+                          "name": "Thailand",
+                          "iso3166CountryCode": "TH"
+                      },
+                      {
+                          "name": "Turkey",
+                          "iso3166CountryCode": "TR"
+                      },
+                      {
+                          "name": "Uganda",
+                          "iso3166CountryCode": "UG"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "iso3166CountryCode": "GB"
+                      },
+                      {
+                          "name": "United States",
+                          "iso3166CountryCode": "US"
+                      },
+                      {
+                          "name": "Vietnam",
+                          "iso3166CountryCode": "VN"
+                      },
+                      {
+                          "name": "Samoa",
+                          "iso3166CountryCode": "WS"
+                      },
+                      {
+                          "name": "Zambia",
+                          "iso3166CountryCode": "ZM"
+                      }
+                  ]
+              },
+              "country": "United States"
+          },
+          {
+              "id": 193,
+              "name": "Lifeline Energy",
+              "ein": "134133423",
+              "addressLine1": "Westlake Office Park",
+              "addressLine2": "Bridge House",
+              "city": "Cape Town",
+              "state": "South Africa",
+              "postal": "7945",
+              "iso3166CountryCode": "ZA",
+              "url": "http://www.lifelineenergy.org",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/193/orglogo.jpg",
+              "mission": "Lifeline Energy is a non-profit social enterprise that provides sustainable information and education access to vulnerable populations. We achieve this by designing, manufacturing and distributing solar and wind-up media players and radios for classroom and group listening. Since 1999, we have distributed more than 500,000 power independent radios to provide on-demand access to information and education, mainly in sub-Saharan Africa. \n\nOver the years we have received numerous awards including the Tech Museum of Innovation Award, a World Bank Development Marketplace Award and an Index: Design to Improve Life Award. In addition, our founder and CEO Kristine Pearson was named one of TIME magazine's Heroes of the Environment for 2007 and received the James C. Morgan Global Humanitarian Award in 2005.",
+              "totalProjects": 31,
+              "activeProjects": 1,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "children",
+                          "name": "Child Protection"
+                      },
+                      {
+                          "id": "democ",
+                          "name": "Peace and Reconciliation"
+                      },
+                      {
+                          "id": "disaster",
+                          "name": "Disaster Response"
+                      },
+                      {
+                          "id": "ecdev",
+                          "name": "Economic Growth"
+                      },
+                      {
+                          "id": "edu",
+                          "name": "Education"
+                      },
+                      {
+                          "id": "env",
+                          "name": "Ecosystem Restoration"
+                      },
+                      {
+                          "id": "gender",
+                          "name": "Gender Equality"
+                      },
+                      {
+                          "id": "health",
+                          "name": "Physical Health"
+                      },
+                      {
+                          "id": "rights",
+                          "name": "Justice and Human Rights"
+                      },
+                      {
+                          "id": "tech",
+                          "name": "Digital Literacy"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "China",
+                          "iso3166CountryCode": "CN"
+                      },
+                      {
+                          "name": "Haiti",
+                          "iso3166CountryCode": "HT"
+                      },
+                      {
+                          "name": "Indonesia",
+                          "iso3166CountryCode": "ID"
+                      },
+                      {
+                          "name": "Japan",
+                          "iso3166CountryCode": "JP"
+                      },
+                      {
+                          "name": "Kenya",
+                          "iso3166CountryCode": "KE"
+                      },
+                      {
+                          "name": "Mozambique",
+                          "iso3166CountryCode": "MZ"
+                      },
+                      {
+                          "name": "Pakistan",
+                          "iso3166CountryCode": "PK"
+                      },
+                      {
+                          "name": "Rwanda",
+                          "iso3166CountryCode": "RW"
+                      },
+                      {
+                          "name": "Sierra Leone",
+                          "iso3166CountryCode": "SL"
+                      },
+                      {
+                          "name": "South Africa",
+                          "iso3166CountryCode": "ZA"
+                      },
+                      {
+                          "name": "Tanzania, United Republic of",
+                          "iso3166CountryCode": "TZ"
+                      },
+                      {
+                          "name": "Zambia",
+                          "iso3166CountryCode": "ZM"
+                      },
+                      {
+                          "name": "South Sudan",
+                          "iso3166CountryCode": "SS"
+                      }
+                  ]
+              },
+              "country": "South Africa"
+          },
+          {
+              "id": 209,
+              "name": "Green Map System",
+              "ein": "13-4062364",
+              "addressLine1": "175 Rivington #1D",
+              "addressLine2": "",
+              "city": "New York",
+              "state": "NY",
+              "postal": "10002",
+              "iso3166CountryCode": "US",
+              "url": "http://www.greenmap.org",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/209/orglogo.jpg",
+              "mission": "Engaging communities worldwide to chart a sustainable future - for all of us!\n\nWe empower a diverse perspective-changing movement mapping local natural, social and cultural resources in 950+ diverse cities, villages and neighborhoods in over 65 countries. Developing local sustainability networks since 1995, Green Map System expands the demand for healthy, green choices with our adaptable, experiential and interactive mapmaking resources and universal icons, multilingual websites, workshops and regional hubs.",
+              "totalProjects": 7,
+              "activeProjects": 2,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "climate",
+                          "name": "Climate Action"
+                      },
+                      {
+                          "id": "ecdev",
+                          "name": "Economic Growth"
+                      },
+                      {
+                          "id": "env",
+                          "name": "Ecosystem Restoration"
+                      },
+                      {
+                          "id": "tech",
+                          "name": "Digital Literacy"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "Albania",
+                          "iso3166CountryCode": "AL"
+                      },
+                      {
+                          "name": "Australia",
+                          "iso3166CountryCode": "AU"
+                      },
+                      {
+                          "name": "Austria",
+                          "iso3166CountryCode": "AT"
+                      },
+                      {
+                          "name": "Belgium",
+                          "iso3166CountryCode": "BE"
+                      },
+                      {
+                          "name": "Bosnia and Herzegovina",
+                          "iso3166CountryCode": "BA"
+                      },
+                      {
+                          "name": "Brazil",
+                          "iso3166CountryCode": "BR"
+                      },
+                      {
+                          "name": "Canada",
+                          "iso3166CountryCode": "CA"
+                      },
+                      {
+                          "name": "China",
+                          "iso3166CountryCode": "CN"
+                      },
+                      {
+                          "name": "Colombia",
+                          "iso3166CountryCode": "CO"
+                      },
+                      {
+                          "name": "Cuba",
+                          "iso3166CountryCode": "CU"
+                      },
+                      {
+                          "name": "Czech Republic",
+                          "iso3166CountryCode": "CZ"
+                      },
+                      {
+                          "name": "Denmark",
+                          "iso3166CountryCode": "DK"
+                      },
+                      {
+                          "name": "Estonia",
+                          "iso3166CountryCode": "EE"
+                      },
+                      {
+                          "name": "Finland",
+                          "iso3166CountryCode": "FI"
+                      },
+                      {
+                          "name": "France",
+                          "iso3166CountryCode": "FR"
+                      },
+                      {
+                          "name": "Germany",
+                          "iso3166CountryCode": "DE"
+                      },
+                      {
+                          "name": "Hong Kong SAR",
+                          "iso3166CountryCode": "HK"
+                      },
+                      {
+                          "name": "Hungary",
+                          "iso3166CountryCode": "HU"
+                      },
+                      {
+                          "name": "Iceland",
+                          "iso3166CountryCode": "IS"
+                      },
+                      {
+                          "name": "India",
+                          "iso3166CountryCode": "IN"
+                      },
+                      {
+                          "name": "Indonesia",
+                          "iso3166CountryCode": "ID"
+                      },
+                      {
+                          "name": "Ireland",
+                          "iso3166CountryCode": "IE"
+                      },
+                      {
+                          "name": "Israel",
+                          "iso3166CountryCode": "IL"
+                      },
+                      {
+                          "name": "Italy",
+                          "iso3166CountryCode": "IT"
+                      },
+                      {
+                          "name": "Japan",
+                          "iso3166CountryCode": "JP"
+                      },
+                      {
+                          "name": "Latvia",
+                          "iso3166CountryCode": "LV"
+                      },
+                      {
+                          "name": "Lebanon",
+                          "iso3166CountryCode": "LB"
+                      },
+                      {
+                          "name": "Lithuania",
+                          "iso3166CountryCode": "LT"
+                      },
+                      {
+                          "name": "Mexico",
+                          "iso3166CountryCode": "MX"
+                      },
+                      {
+                          "name": "Netherlands",
+                          "iso3166CountryCode": "NL"
+                      },
+                      {
+                          "name": "Nigeria",
+                          "iso3166CountryCode": "NG"
+                      },
+                      {
+                          "name": "Norway",
+                          "iso3166CountryCode": "NO"
+                      },
+                      {
+                          "name": "Puerto Rico",
+                          "iso3166CountryCode": "PR"
+                      },
+                      {
+                          "name": "Romania",
+                          "iso3166CountryCode": "RO"
+                      },
+                      {
+                          "name": "Singapore",
+                          "iso3166CountryCode": "SG"
+                      },
+                      {
+                          "name": "South Africa",
+                          "iso3166CountryCode": "ZA"
+                      },
+                      {
+                          "name": "South Korea",
+                          "iso3166CountryCode": "KR"
+                      },
+                      {
+                          "name": "Spain",
+                          "iso3166CountryCode": "ES"
+                      },
+                      {
+                          "name": "Sweden",
+                          "iso3166CountryCode": "SE"
+                      },
+                      {
+                          "name": "Switzerland",
+                          "iso3166CountryCode": "CH"
+                      },
+                      {
+                          "name": "TW",
+                          "iso3166CountryCode": "TW"
+                      },
+                      {
+                          "name": "Thailand",
+                          "iso3166CountryCode": "TH"
+                      },
+                      {
+                          "name": "Gambia, The",
+                          "iso3166CountryCode": "GM"
+                      },
+                      {
+                          "name": "Uganda",
+                          "iso3166CountryCode": "UG"
+                      },
+                      {
+                          "name": "United Arab Emirates",
+                          "iso3166CountryCode": "AE"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "iso3166CountryCode": "GB"
+                      },
+                      {
+                          "name": "United States",
+                          "iso3166CountryCode": "US"
+                      }
+                  ]
+              },
+              "country": "United States"
+          },
+          {
+              "id": 218,
+              "name": "Center for Inspired Teaching",
+              "ein": "52-1944180",
+              "addressLine1": "5614 Connecticut AVE NW",
+              "addressLine2": "Suite 258",
+              "city": "Washington",
+              "state": "DC",
+              "postal": "200015-2604",
+              "iso3166CountryCode": "US",
+              "url": "http://www.inspiredteaching.org",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/218/orglogo.jpg",
+              "mission": "Center for Inspired Teaching envisions a future in which every person is prepared to thrive in and contribute to our complex and rapidly changing world, through an education that teaches students how to think.\n\nInspired Teaching transforms the PreK-12 school system by cultivating changemaking educators who authentically engage their students as active learners and empathetic critical thinkers.",
+              "totalProjects": 1,
+              "activeProjects": 1,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "edu",
+                          "name": "Education"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "United States",
+                          "iso3166CountryCode": "US"
+                      }
+                  ]
+              },
+              "country": "United States"
+          },
+          {
+              "id": 221,
+              "name": "Fundacion Escuela Nueva Volvamos a la Gente",
+              "addressLine1": "Calle 39 No. 21-57",
+              "addressLine2": "",
+              "city": "Bogota",
+              "state": "Bogota DC",
+              "postal": "",
+              "iso3166CountryCode": "CO",
+              "url": "http://www.escuelanueva.org",
+              "logoUrl": "https://www.globalgiving.org/pfil/organ/221/orglogo.jpg",
+              "mission": "Our mission is to improve the coverage, quality, efficiency and sustainability of rural and urban basic education, focusing primarily on developing countries, through the implementation of the Escuela Nueva Activa model and with the support of private and public partnerships.",
+              "totalProjects": 9,
+              "activeProjects": 1,
+              "themes": {
+                  "theme": [
+                      {
+                          "id": "edu",
+                          "name": "Education"
+                      },
+                      {
+                          "id": "gender",
+                          "name": "Gender Equality"
+                      }
+                  ]
+              },
+              "countries": {
+                  "country": [
+                      {
+                          "name": "Brazil",
+                          "iso3166CountryCode": "BR"
+                      },
+                      {
+                          "name": "Colombia",
+                          "iso3166CountryCode": "CO"
+                      },
+                      {
+                          "name": "Guatemala",
+                          "iso3166CountryCode": "GT"
+                      },
+                      {
+                          "name": "Mexico",
+                          "iso3166CountryCode": "MX"
+                      },
+                      {
+                          "name": "Peru",
+                          "iso3166CountryCode": "PE"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "iso3166CountryCode": "GB"
+                      },
+                      {
+                          "name": "Vietnam",
+                          "iso3166CountryCode": "VN"
+                      }
+                  ]
+              },
+              "country": "Colombia"
+          }
+      ]
+  }
+}
