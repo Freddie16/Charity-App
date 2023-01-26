@@ -16,7 +16,7 @@ function CharityList() {
      .then((response) => response.json())
      .then((data) => {setOrganizations(data.organization)})
       console.log(organizations)
-    }, []);
+    }, );
 
 
   return (
