@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import '../App.css'
+import '../css/Landingpage.css'
 
 export default function LandingPage() {
     return (
-        <header style={ HeaderStyle }>
+        <header className= "LandingPage-body" style={ HeaderStyle }>
             <h1 className="main-title text-center">login / register </h1>
             
             <p className="main-para text-center">

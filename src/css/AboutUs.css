@@ -1,0 +1,33 @@
+
+*{
+    margin: 0 auto;
+    background-size: cover;
+
+}
+
+.about-par{
+    color:black;
+    max-width: 500px;
+}
+        
+.abt-us{
+    background-image:url('https://cdn.pixabay.com/photo/2022/03/05/10/54/flag-7048909_960_720.jpg');
+    background-position-y: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    
+}
+.img1{
+width:100px;
+height:60px;
+
+}
+.img2{
+
+
+}
+
+
+
+    

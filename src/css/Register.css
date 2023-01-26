@@ -1,0 +1,31 @@
+
+.reg{
+    background-image:url("https://cdn.pixabay.com/photo/2022/08/19/14/06/waterfall-7397017_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    
+}
+
+
+.m-5-auto {
+    margin: 5rem auto
+}
+.form-f{
+    text-align: center;
+    padding-top: 10%;
+    width: 400px;
+    height: 80vh;
+    margin-top:1.7em;
+    border: 1px solid black;
+    background-color: 	#8dd30b;
+
+}
+.join{
+text-align: center;
+}
+.create{
+text-align: center;
+}
+

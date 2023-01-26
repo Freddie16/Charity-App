@@ -1,8 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
     content: [
-      "./src/components/pages/LandingPage.js",
-      "./src/components/pages/LoginPage.js",
+      "./src/components/LandingPage.js",
+      "./src/components/LoginPage.js",
   
     ],
     theme: {

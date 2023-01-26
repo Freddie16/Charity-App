@@ -1,15 +1,17 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import '../App.css'
+import '../css/LoginPage.css'
+import '../css/Register.css'
 
 export default function SignUpPage() {
 
     return (
+     <div className="reg">
         <div className="text-center m-5-auto">
-            <h2>Join us</h2>
-            <h5>Create your personal account</h5>
-            <form action="/home">
+            <h2 className="join">Join us</h2>
+            <h5 className="create">Create your personal account</h5>
+            <form className="form-f" action="/home">
                 <p>
                     <label>Username</label><br/>
                     <input type="text" name="first_name" required />
@@ -30,8 +32,9 @@ export default function SignUpPage() {
                 </p>
             </form>
             <footer>
-                <p><Link to="/">Back to Homepage</Link>.</p>
+                <p className="footer"><Link to="/">Back to Homepage</Link>.</p>
             </footer>
+        </div>
         </div>
     )
 

@@ -1,10 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-//import ContactUs from './ContactUs'
+import '../css/Homepage.css'
+
 export default function HomePage() {
     return (
-        <>
-         <div>     
+        
+         <div className="Home">     
          <div className="text-left">
             <h1 className="main-title home-page-title">welcome to charity app</h1>
 
@@ -18,6 +19,6 @@ export default function HomePage() {
         </div>
         
         </div>
-    </>
+    
     )
 }
