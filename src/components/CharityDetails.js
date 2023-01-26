@@ -10,7 +10,7 @@ function CharityDetails({details}) {
     <p>{details.mission}</p>
     <h4>Themes</h4>
     <p>{details.themes.theme.map((theme)=>{
-            return(<ul style={{ display: "inline-block" }}> 
+            return(<ul style={{ display: "inline-block", listStyleType:"none" }}> 
               <li>{theme.name}</li>
             </ul>)
           })}</p>

@@ -1,4 +1,5 @@
 import React from 'react'
+import CharityList from './CharityList'
 import { Link } from 'react-router-dom'
 //import ContactUs from './ContactUs'
 export default function HomePage() {
@@ -12,6 +13,7 @@ export default function HomePage() {
                 <button className="primary-button">Log out</button>
             </Link>
             <Link to='/AboutUs'>ABOUT US</Link>
+            <Link to = "/CharityList">PICK A CHARITY</Link>
             {/* <link to='/ContactUs'>CONTACT US</link> */}
 
 

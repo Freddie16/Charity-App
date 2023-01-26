@@ -6,6 +6,7 @@ import LoginPage from './components/LoginPage'
 import RegisterPage from './components/RegisterPage'
 import ForgetPasswordPage from './components/ForgetPasswordPage'
 import HomePage from './components/HomePage'
+import CharityList from "./components/CharityList"
 
 import './App.css'
 import AboutUs from './components/AboutUs'
@@ -22,6 +23,9 @@ export default function App() {
                     <Route path="/forget-password" element={ <ForgetPasswordPage />} />
                     <Route path="/home" element={< HomePage/> } />
                     <Route path="/AboutUs" element={< AboutUs/> } />
+                    <Route path='/CharityList'element={< CharityList/>} />
+                        
+                    
              
 
 
