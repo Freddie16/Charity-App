@@ -1,0 +1,41 @@
+.LandingPage-body{
+    background-image:url('https://cdn.pixabay.com/photo/2012/12/20/10/12/align-fingers-71282_960_720.jpg');
+background-position-y: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+animation: slide 10s infinite;
+
+
+}
+.main-title{
+text-align: center;
+padding-top: 10rem;
+font-size: 5rem;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-transform: uppercase;
+font-weight: 600;
+color:black;
+
+}
+.primary-button{
+    margin-top: 5rem;
+    margin-right: 1rem;
+    padding: .6rem;
+    width: 10rem;
+    background: #222;
+    border: none;
+    color: #fff;
+    font-size: 1.2rem;
+    transition: all .5s;
+    cursor: pointer;
+    text-transform: capitalize
+   
+}
+.buttons{
+text-align: center;
+}
+.main-para {
+    font-size: 2.5rem;
+    text-Transform: capitalize;
+    color: rgb(33, 218, 202);
+}

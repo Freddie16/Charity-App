@@ -1,6 +1,6 @@
 import React from 'react'
 import '../App.css'
-import '../css/AboutUs.css'
+import '../Aboutus.css'
  function AboutUs() {
   return (
    
@@ -10,8 +10,8 @@ import '../css/AboutUs.css'
         <p className="about-par">
           We are a non-profit organisation that aims at providing immediate service to anyone seeking to 
           help build humanity.
-        In a world where so many have few reaources,we aim to spread awareness and help those
-        in need,to inspire a generation of donor all over the world,to be a holder and
+        In a world where so many have few resources,we aim to spread awareness and help those
+        in need,to inspire a generation of donors all over the world,to be bolder and
         more innovative in their grant making,through making donations to charities around the world.
 </p>
 </div>

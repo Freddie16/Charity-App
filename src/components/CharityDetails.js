@@ -4,7 +4,7 @@ function CharityDetails({details}) {
 
   
     
-    return (
+  return (
     <div>
     <h4>CharityDetails</h4>
     <p>{details.mission}</p>
@@ -17,7 +17,7 @@ function CharityDetails({details}) {
     <p>country : {details.country}</p>
     <p> Total projects : {details.totalProjects}</p>
     <p> Active projects : {details.activeProjects}</p>
-    <a href={details.url} target="_blank"><button className='button'> Donate </button></a>
+    <a href={details.url}target="_blank" rel="noreferrer"><button className='button'> Donate </button></a>
     
       
     

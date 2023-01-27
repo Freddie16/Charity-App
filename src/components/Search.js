@@ -1,6 +1,7 @@
 import React from "react";
+import '../App.css'
 
-const SearchBar = ({keyword, onChange}) => {
+const Search = ({keyword, onChange}) => {
     const BarStyle = {width:"20rem",background:"#F0F0F0", border:"solid", padding:"0.5rem"};
     return (
       <input 
@@ -13,4 +14,4 @@ const SearchBar = ({keyword, onChange}) => {
     );
   }
   
-  export default SearchBar;
+  export default Search;

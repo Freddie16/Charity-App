@@ -1,7 +1,7 @@
 import React from 'react'
+import CharityList from './CharityList'
 import { Link } from 'react-router-dom'
-import '../css/Homepage.css'
-
+import '../Homepage.css'
 export default function HomePage() {
     return (
         
@@ -13,10 +13,8 @@ export default function HomePage() {
                 <button className="primary-button">Log out</button>
             </Link>
             <Link to='/AboutUs'>ABOUT US</Link>
+            <Link to = "/CharityList">PICK A CHARITY</Link>
             {/* <link to='/ContactUs'>CONTACT US</link> */}
-             <Link to='/Charity List'>PICK A CHARITY</Link>
-            {/* <link to='/Pick a charity'>DONATE</link> */}
-
 
 
         </div>

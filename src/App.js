@@ -24,6 +24,7 @@ export default function App() {
                     <Route path="/home" element={< HomePage/> } />
                     <Route path="/AboutUs" element={< AboutUs/> } />
                     <Route path='/CharityList'element={< CharityList/>} />
+                    
                         
                     
              
