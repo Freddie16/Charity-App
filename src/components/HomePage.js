@@ -14,6 +14,9 @@ export default function HomePage() {
             </Link>
             <Link to='/AboutUs'>ABOUT US</Link>
             {/* <link to='/ContactUs'>CONTACT US</link> */}
+             <Link to='/Charity List'>PICK A CHARITY</Link>
+            {/* <link to='/Pick a charity'>DONATE</link> */}
+
 
 
         </div>
