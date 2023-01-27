@@ -1,0 +1,15 @@
+
+.Home{
+    background-image:url('https://cdn.pixabay.com/photo/2013/11/28/10/36/road-220058_960_720.jpg');
+ width:100vw;
+ height:100vh;
+ animation: slide 10s infinite;
+}
+@keyframes slide{
+    50%{
+        background:url('https://cdn.pixabay.com/photo/2015/07/09/22/45/tree-838667_960_720.jpg');
+    }
+    75%{
+        backroung:url('https://cdn.pixabay.com/photo/2015/07/09/22/45/tree-838667_960_720.jpg')
+    }
+}

@@ -1,0 +1,30 @@
+
+*{
+    margin: 0 auto;
+    background-size: cover;
+
+}
+
+.about-par{
+    color:rgb(27, 210, 235);
+    max-width: 500px;
+}
+        
+.abt-us{
+    background-image:url("https://cdn.pixabay.com/photo/2015/04/23/21/59/hot-air-balloon-736879_960_720.jpg");
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: slide 10s infinite;
+  
+    
+}
+.img1{
+width:10vw;
+height:20vh;
+
+}
+
+
+
+    

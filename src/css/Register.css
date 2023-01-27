@@ -1,0 +1,29 @@
+
+
+.reg{
+    background-image:url("https://cdn.pixabay.com/photo/2015/01/07/15/51/woman-591576_960_720.jpg");
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:slide 10s infinite;
+    
+}
+
+.form-f{
+    text-align: center;
+  
+   
+    width: 400px;
+    height: 100vh;
+ 
+    border: 1px solid black;
+    background-color: 	#8dd30b;
+
+}
+.join{
+text-align: center;
+}
+.create{
+text-align: center;
+}
+
