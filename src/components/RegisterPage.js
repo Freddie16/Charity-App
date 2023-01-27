@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import '../Loginpage.css'
-import '../Register.css'
+
 export default function SignUpPage() {
 
     return (

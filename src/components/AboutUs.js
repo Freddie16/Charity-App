@@ -1,6 +1,6 @@
 import React from 'react'
 import '../App.css'
-import '../Aboutus.css'
+
  function AboutUs() {
   return (
    

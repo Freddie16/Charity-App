@@ -1,7 +1,7 @@
 import React from 'react'
 import CharityList from './CharityList'
 import { Link } from 'react-router-dom'
-import '../Homepage.css'
+
 export default function HomePage() {
     return (
         
