@@ -1,15 +1,12 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-
+import '../App.css'
 
 export default function LandingPage() {
     return (
-        <header className= "LandingPage-body" style={ HeaderStyle }>
+        <header style={ HeaderStyle }>
             <h1 className="main-title text-center">login / register </h1>
-            
-            <p className="main-para text-center">
-                <marquee>Join us today and let's make the world smile</marquee>
-                </p>
+                      
             <div className="buttons text-center">
                 <Link to="/login">
                     <button className="primary-button">log in</button>
