@@ -4,28 +4,40 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
+        
 }
 
 body {
-margin: 0 auto;
+
 background-image:url('https://cdn.pixabay.com/photo/2012/12/20/10/12/align-fingers-71282_960_720.jpg');
 text-align: center;
 background-position-y: 100%;
 background-repeat: no-repeat;
-background-size: cover;
+background-size:cover;
+
 
 }
 .m-5-auto {
     margin: 5rem auto
 }
 
-.primary-button {
-    margin-top: 5rem;
-    margin-right: 1rem;
-    padding: .6rem;
-    width: 10rem;
-    background: #222;
+
+.heading{
+    margin-bottom: 3rem;
+    margin-top: 0;
+
+
+}
+
+
+.navbar{
+    padding-right: 40px;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    text-align: right;
+    border-radius: 20px;
+    margin-right: 100;   
     border: none;
     color: #fff;
     font-size: 1.2rem;
@@ -33,7 +45,6 @@ background-size: cover;
     cursor: pointer;
     text-transform: capitalize
 }
-
 /***    Landing Page     ***/
 .main-title,
 .main-para {
@@ -41,7 +52,7 @@ background-size: cover;
 }
 
 .main-title {
-    padding-top: 10rem;
+    padding-top: 1rem;
     font-size: 5rem;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
@@ -150,3 +161,95 @@ form span {
 .home-page-title {
     color: #222
 }
+
+.charity-data{
+    display: flex;
+    width: 100%;
+    padding: auto;
+    
+    text-align: center;
+    position: relative;
+    text-decoration-color: #f3f3f3;
+    border-top: #fff;
+    padding-top: 10px;
+    padding-left: 40px;
+
+
+    
+
+    
+    
+}
+
+
+
+
+.charity-list{
+    width:auto;
+    padding-top: 10px;
+    
+
+    
+}
+
+.charity-data:hover{
+   background-color: #bdbdbd;
+   border-radius: 10px;
+   padding-left: 20px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+
+    
+
+    
+}
+
+
+
+.charity-data.ul{
+    list-style-type: circle;
+}
+
+.about-header{
+    text-align: right;
+    margin-left: 20px;
+    padding-left:10px;
+    border-bottom: solid 2px ;
+
+
+}
+
+.button{
+    background-color: #2b2b2b;
+    border: 2px solid;
+    color: rgb(248, 246, 246);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+
+}
+
+.button:hover{
+    background-color: #5a5a5a; /* Green */
+    color: white;
+  }
+
+  .primary-button{
+    margin-left: 5rem;
+    margin-top: 1rem;
+    border-radius: 20px;
+    margin-right: 1rem;
+    padding: .6rem;
+    width: 10rem;
+    background: #222;
+    border: none;
+    color: #fff;
+    font-size: 1.2rem;
+    transition: all .5s;
+    cursor: pointer;
+    text-transform: capitalize
+  }

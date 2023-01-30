@@ -1,12 +1,12 @@
 import React from 'react'
 
-function CharityDetails({details}) {
+function CharityDetails({details, handleClick}) {
 
   
     
     return (
-    <div>
-    <h4>CharityDetails</h4>
+    <div onClick={handleClick}>
+    <img  src={details.logoUrl} alt="" />
     <p>{details.mission}</p>
     <h4>Themes</h4>
     <p>{details.themes.theme.map((theme)=>{
@@ -14,7 +14,7 @@ function CharityDetails({details}) {
               <li>{theme.name}</li>
             </ul>)
           })}</p>
-    <p>country : {details.country}</p>
+   
     <p> Total projects : {details.totalProjects}</p>
     <p> Active projects : {details.activeProjects}</p>
     <a href={details.url} target="_blank"><button className='button'> Donate </button></a>

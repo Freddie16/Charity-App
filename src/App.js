@@ -23,7 +23,7 @@ export default function App() {
                     <Route path="/forget-password" element={ <ForgetPasswordPage />} />
                     <Route path="/home" element={< HomePage/> } />
                     <Route path="/AboutUs" element={< AboutUs/> } />
-                    <Route path='/CharityList'element={< CharityList/>} />
+                    
                         
                     
              
@@ -33,27 +33,9 @@ export default function App() {
 
 
                 </Routes>
-                <Footer />
+                
             </div>
         </Router>
         </>
     )
-}
-
-const Footer = () => {
-    return (
-        <p className="text-center" style={ FooterStyle }><b>charity app</b></p>
-    )
-}
-
-const FooterStyle = {
-    background: "#222",
-    fontSize: ".8rem",
-    color: "#fff",
-    position: "absolute",
-    bottom: 0,
-    padding: "1rem",
-    margin: 0,
-    width: "100%",
-    opacity: ".5"
 }

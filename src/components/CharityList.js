@@ -20,9 +20,9 @@ function CharityList() {
 
 
   return (
-    <div>
+    <div className="charity-list">
     
-      <h2>CharityList</h2>
+    
      <ul> {organizations?.map((org) => (
       <CharityData key = {org.id} organizations= {org}/>
       ))}

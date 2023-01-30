@@ -13,14 +13,18 @@ function CharityData({ organizations }) {
 
  
     return (
-      <div className="charity-data">
+      <div className="charity-data" onClick={handleClick}>
         
-          
-            <img onClick={handleClick} src={organizations.logoUrl} alt="" />
+        
+           
+      <div>
       
-          <h2 onClick={handleClick}>{organizations.name}</h2>
+      <h2 onClick={handleClick}>{organizations.name}</h2>
+      <p>{organizations.country}</p>
           
-          {addedDetails ? <CharityDetails details={organizations} /> : ""}
+          {addedDetails ? <CharityDetails details={organizations} handleClick= {handleClick} /> : ""}
+      </div>
+         
         
       </div>
     );
